@@ -1,0 +1,1 @@
+My process included creating a staging table to preserve the original raw data before any transformations.Identified and removed duplicates.Unified inconsistent naming conventions and corrected capitalisation using TRIM(),UPPER(),   and case.Handling Null values.converted date strings into proper Date formats.
